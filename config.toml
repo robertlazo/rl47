@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://app.netlify.com/sites/gifted-benz-b21210"
 languageCode = "en-us"
 title = "Robert Lazo's website - RL47.com "
 theme = "hugo-lithium-theme"
